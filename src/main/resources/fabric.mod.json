@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "iris",
-  "version": "1.6.16-development-environment",
+  "version": "1.6.17",
 
   "name": "Iris",
   "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
@@ -9,7 +9,8 @@
     "coderbot",
     "IMS212",
     "Justsnoopy30",
-    "FoundationGames"
+    "FoundationGames",
+    "FloatDev"
   ],
   "contact": {
     "homepage": "https://github.com/IrisShaders/Iris",
